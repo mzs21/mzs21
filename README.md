@@ -33,7 +33,7 @@
 
 
 <a href="https://github.com/mzs21">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="315" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="316" align="left" />
 <img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="right" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="right" />
 </a>
