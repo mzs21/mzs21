@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/mzs21)  
-### Hi there 👋, I'm Md Mashroor Zilan Snigdho
+## Hi there 👋, I'm Md Mashroor Zilan Snigdho
 
-#### Building & solving things with programming
+### Building & solving things with programming
 I'm a high school student. Love to build projects & solve problems.  
 
 - 🌱 I’m currently learning React 
