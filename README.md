@@ -32,10 +32,11 @@
 <a href="https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg' alt='YouTube' height='40' width= "40px"></a>  
 
 
-<a href="https://github.com/mzs21">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="316" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="right" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="right" />
-</a>
+
+<a href="https://github.com/mzs21"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="318" align="left" /></a>
+
+<a href="https://github.com/mzs21"><img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="right" /></a>
+
+<a href="https://github.com/mzs21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="right" /></a>
 
 
