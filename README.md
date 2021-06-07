@@ -27,13 +27,15 @@
   
 
 ## Find me here:
-<a href="https://github.com/mzs21"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='github' height='40' width= "30px"></a>
-<a href="https://www.linkedin.com/in/mdmzs"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='linkedin' height='40' width= "30px"></a>
- <a href="https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg' alt='YouTube' height='40' width= "40px"></a>  
+<a href="https://github.com/mzs21"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='github' height='40' width= "30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mdmzs"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='linkedin' height='40' width= "30px" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg' alt='YouTube' height='40' width= "40px" target="_blank"></a>  
 
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="315" align="left" />](https://github.com/mzs21)
-[<img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="right" />](https://github.com/mzs21)
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="right" />](https://github.com/mzs21)
+<a href="https://github.com/mzs21">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" width="315" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="right" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="right" />
+</a>
 
 
