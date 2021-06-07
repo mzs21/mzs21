@@ -33,7 +33,7 @@
 
 ## Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width= "30pxpx">](https://github.com/mzs21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width= "30px">](https://www.linkedin.com/in/https://www.linkedin.com/in/mdmzs//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' width= "40px">](https://www.youtube.com/channel/https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='github' height='40' width= "30pxpx">](https://github.com/mzs21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='linkedin' height='40' width= "30px">](https://www.linkedin.com/in/https://www.linkedin.com/in/mdmzs//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg' alt='YouTube' height='40' width= "40px">](https://www.youtube.com/channel/https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mzs21)](https://github.com/ryo-ma/github-profile-trophy)
 
