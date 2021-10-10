@@ -31,8 +31,7 @@
   
 
 ## Find me here:
-<code><a href="https://github.com/mzs21"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='github' height='40' width= "30px"></a></code>
-<code><a href="https://www.linkedin.com/in/mdmzs"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='linkedin' height='40' width= "30px"></a></code>
+<code><a href="https://www.linkedin.com/in/mdmzs"><img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40' width= "30px"></a></code>
 <code><a href="https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg' alt='YouTube' height='40' width= "40px"></a></code>
 <hr>
 
