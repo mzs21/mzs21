@@ -36,6 +36,6 @@
 <code><a href="https://www.youtube.com/channel/UCeqgosa0xxJ319iUVWCDKQQ"><img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' alt='YouTube' height='30' width= "40px"></a></code>
 <hr>
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" align="center" />](https://github.com/mzs21)
-[<img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="center" />](https://github.com/mzs21)
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="center" />](https://github.com/mzs21)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21" align="left" />](https://github.com/mzs21)
+[<img src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true" align="left" />](https://github.com/mzs21)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs21" align="left" />](https://github.com/mzs21)
