@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning <code><img alt="ReactJS" align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="ReactJS"/>ReactJS</code>
+- 🌱 I’m currently learning <code><img alt="ReactJS" align="center" width="20px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" title="D3"/> D3.js</code>
 - 🔨 I’m currently building Front-End Projects
 - 👯 I’m looking to collaborate on Front-End Projects 
 
