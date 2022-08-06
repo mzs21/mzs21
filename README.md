@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning <code><img alt="ReactJS" align="center" width="20px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" title="D3"/> D3.js</code>
+- 🌱 I’m currently learning <code><img alt="D3" align="center" width="20px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" title="D3"/> D3.js</code>
 - 🔨 I’m currently building Front-End Projects
 - 👯 I’m looking to collaborate on Front-End Projects 
 
@@ -24,6 +24,7 @@
   <code><img  alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass"/></code>
   <code><img  alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"/></code>
   <code><img  alt="Tailwind CSS" width="30px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" title="Tailwind CSS"/></code>
+  <code><img alt="D3" width="20px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" title="D3"/></code>
   
   
 - ### Workflow:
