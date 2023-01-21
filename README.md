@@ -58,12 +58,11 @@
 | :------------- | :-------------: |
 |![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) | 
 
-### 🖥⌨ Stats
+## 📊 GitHub Stats:
 
-
-| <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mzs21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="mzs21's github stats" /></a> | <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="mzs21's github stats" /></a> | 
+| <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mzs21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="mzs21's github stats" /></a> | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&theme=tokyonight&hide_border=true) | 
 | :------------- | :-------------: |
-| <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Indeed, with every hardship there is relief. <br /> - <i>Surah Inshirah - 94:6</i></b> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21&layout=compact&hide_border=true&theme=tokyonight) | <b>Indeed, with every hardship there is relief. <br /> - <i>Surah Inshirah - 94:6</i></b> |
 
 <br />
 <!-- <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mzs21&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="mzs21's github stats" /></a> -->
@@ -78,4 +77,5 @@
 <!-- <a href="https://www.quora.com/profile/Zakaria-Hossain-8" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/d91821b997572279bcda39224cd22ed45b90d9af1261d36a9520b0ba6f8d2d6f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f71756f72612e737667" alt="Quora" /></a> -->
 <!-- <a href="https://medium.com/@zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" alt="Medium" /></a> -->
 <!-- <a href="https://facebook.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="Facebook" /></a> -->
+
 
