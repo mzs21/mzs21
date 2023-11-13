@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats:
 
-| <a href="https://github.com/mzs21 "><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mzs21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="mzs21's github stats" /></a> | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&theme=tokyonight&hide_border=true) | 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=mzs21)](https://git.io/streak-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&theme=tokyonight&hide_border=true) | 
 | :------------- | :-------------: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21&layout=compact&hide_border=true&theme=tokyonight) | <b>Indeed, with every hardship there is relief. <br /> - <i>Surah Inshirah - 94:6</i></b> |
 
