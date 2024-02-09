@@ -60,11 +60,14 @@
 
 ## 📊 GitHub Stats:
 
+<!--
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&theme=tokyonight&hide_border=true) | 
+| :-------------: | :-------------: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21&layout=compact&hide_border=true&theme=tokyonight) | <b>Indeed, with every hardship there is relief. <br /> - <i>Surah Inshirah - 94:6</i></b> |-->
 
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzs21&show_icons=true&theme=tokyonight&hide_border=true) |
-| :------------- | :-------------: |
+|  Languages | Motivation  |
+| ----------- | ----------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzs21&layout=compact&hide_border=true&theme=tokyonight) | <b>Indeed, with every hardship there is relief. <br /> - <i>Surah Inshirah - 94:6</i></b> |
-
 
 <br />
 <!-- <a href="https://github.com/mzs21"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mzs21&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="mzs21's github stats" /></a> -->
